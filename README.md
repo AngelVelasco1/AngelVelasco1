@@ -7,19 +7,14 @@
 
 - 👨‍💻 All my projects can be found on my <a href="https://angel-velasco.vercel.app/">Personal Website</a>
 
-- 📫 How to reach me: 
+- 📫 You can reach me: **angelgg2020@outlook.com**
 
-- 💬 Ask me about ...
-
-
-
-- ⚡ Fun fact: ...
+- ⚡ _Don´t stop learning_
 
 
 
 
 
-- 📫 PUEDES CONTACTARME EN **micorreo@midominio.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
