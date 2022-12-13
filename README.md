@@ -1,23 +1,23 @@
 ![Presentación de portafolio de diseño web estilo digital rosa morado naranja](https://user-images.githubusercontent.com/82744167/207373057-af471f3f-2338-499e-a94e-32633c1af756.png)
 <h1 align="center">Hi 👋 I´m Angel Velasco</h1>
-<h3 align="center">QUE TE APASIONA</h3>
-- 🔭 I’m currently working on English Academy https://english-academy1.vercel.app/...
-- 
+
+- 🔭 I’m currently working on <a href="https://english-academy1.vercel.app/">English Academy </a>
+
 - 🌱 I’m currently learning **CSS, SASS, LESS, JAVASCRIPT, ANGULAR AND REACT**
-- 
-- 👯 I’m looking to collaborate on ...
-- 
-- 🤔 I’m looking for help with ...
-- 
+
+- 👨‍💻 All my projects can be found on my <a href="https://angel-velasco.vercel.app/">Personal Website</a>
+
+- 📫 How to reach me: 
+
 - 💬 Ask me about ...
-- 
-- 📫 How to reach me: ...
-- 
+
+
+
 - ⚡ Fun fact: ...
 
 
 
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
+
 
 - 📫 PUEDES CONTACTARME EN **micorreo@midominio.com**
 
