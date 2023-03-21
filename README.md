@@ -33,10 +33,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
  
  <h3 align="left">My Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelvelasco1&show_icons=true&locale=en" alt="angelvelasco1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelvelasco1&show_icons=true&theme=tokyonight&locale=en" alt="angelvelasco1" /></p>
 
 <h3 align= "left">Most Used Languages</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelvelasco1&show_icons=true&locale=en&layout=compact" alt="angelvelasco1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelvelasco1&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="angelvelasco1" /></p>
 
 
   
