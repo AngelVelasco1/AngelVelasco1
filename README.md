@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on <a href="https://english-academy1.vercel.app/">English Academy </a>
 
-- 🌱 I’m currently learning **ADVANCED JAVASCRIPT, VUE, REACT, AI **
+- 🌱 I’m currently learning **ADVANCED JAVASCRIPT, VUE, REACT, AI**
 
 - 👨‍💻 All my projects can be found on my <a href="https://angel-velasco.vercel.app/">Personal Website</a>
 
