@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/82744167/207373057-af471f3f-2338-499e-a94e-32633c1af756.png)
+![image](https://github.com/AngelVelasco1/AngelVelasco1/assets/82744167/99099eae-2bfb-4d2a-aaad-21e501e9ee5e)
 <h1 align="center">Hi 👋 I´m Angel Velasco</h1>
 <h2 align="center">A passionate Full Stack and Ui/Ux Developer</h2>
 
